@@ -1,0 +1,106 @@
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.exe.config
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.csprojResolveAssemblyReference.cache
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\config.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsAdder.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsHandler.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsViewer.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Holidays.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_period.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_types.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainPage.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainWindow.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Reports.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Work_week.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Assign_Leave.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\config.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsAdder.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsHandler.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsViewer.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Holidays.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Leave_Lists.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_period.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_types.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainPage.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainWindow.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Reports.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Work_week.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\App.g.cs
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_MarkupCompile.cache
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_MarkupCompile.lref
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.exe
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.pdb
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Assign_Leave.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Leave_Lists.baml
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.g.resources
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config_with_Gui.Properties.Resources.resources
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.csproj.GenerateResource.Cache
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.exe
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.pdb
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave.mdf
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave1.mdf
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave1_log.ldf
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave_log.ldf
+G:\Workspace\OOP2 Project Team\Projects\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_Content.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.exe.config
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.exe
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.pdb
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.csprojResolveAssemblyReference.cache
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\config.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsAdder.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsHandler.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsViewer.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Holidays.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_period.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_types.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainPage.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainWindow.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Reports.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Work_week.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Assign_Leave.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\config.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsAdder.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsHandler.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\EntitlementsViewer.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Holidays.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Leave_Lists.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_period.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\leave_types.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainPage.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\MainWindow.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Reports.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Work_week.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\App.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_Content.g.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_MarkupCompile.cache
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui_MarkupCompile.lref
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave.mdf
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave1.mdf
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave1_log.ldf
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Leave_log.ldf
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.exe
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Config with Gui.pdb
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\Microsoft.Expression.Drawing.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Assign_Leave.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Leave_Lists.baml
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.g.resources
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config_with_Gui.Properties.Resources.resources
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\Config with Gui.csproj.GenerateResource.Cache

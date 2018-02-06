@@ -1,0 +1,20 @@
+﻿Config with Gui
+
+
+winexe
+C#
+.cs
+H:\Config-with-Gui 2 forked\Config with Gui\obj\Debug\
+Config_with_Gui
+none
+false
+DEBUG;TRACE
+H:\Config-with-Gui 2 forked\Config with Gui\App.xaml
+131657144915
+4-1829058614
+24580949236
+13-1319947915
+Assign_Leave.xaml;config.xaml;EntitlementsAdder.xaml;EntitlementsHandler.xaml;EntitlementsViewer.xaml;Holidays.xaml;Leave_Lists.xaml;leave_period.xaml;leave_types.xaml;MainPage.xaml;MainWindow.xaml;Reports.xaml;Work_week.xaml;
+
+False
+
